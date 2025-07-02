@@ -1,0 +1,676 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmbSplines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmbSplines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\FrmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmbresenhamelipses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmbresenhamelipses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\BresenhamElipses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\BresenhamElipses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\BSplines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\BSplines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmbsplines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmbsplines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmbSplines.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmbSplines.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\FrmPrincipal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmsutherlandholdgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmsutherlandholdgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\CliperSH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\CliperSH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\ClipperCS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\ClipperCS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\cohenSutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\cohenSutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Relleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\Relleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmcohenSutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmcohenSutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmbeziercubico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmbeziercubico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Cuadratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\Cuadratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierCubico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmBezierCubico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Cubica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\Cubica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmbeziercurvascuadraticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmbeziercurvascuadraticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\AlgoritmoDDA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\AlgoritmoDDA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmbezierlineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmbezierlineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmcircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmcircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmFloodFill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmFloodFill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmCircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmCircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\AlgoritmoCircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\AlgoritmoCircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\FloodFill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\FloodFill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmDDA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmDDA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierLineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmBezierLineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Lineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\Lineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\PerformanceMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Clases\\PerformanceMonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmScanline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmScanline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\algoritmo dda\\formularios\\frmscanline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:algoritmo dda\\formularios\\frmscanline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\FrmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B3D88-7682-4982-8153-8F650F6E6FF3}|Algoritmo DDA\\Algoritmos.csproj|solutionrelative:Algoritmo DDA\\Formularios\\FrmBresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Program.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Program.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:30:36.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmbSplines.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmbSplines.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmbSplines.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmbSplines.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmbSplines.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:36:37.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:43:26.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.cs",
+              "RelativeToolTip": "Algoritmo DDA\\FrmPrincipal.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAswGEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:19:29.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmBresenhamElipses.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:14:02.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBresenhamElipses.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmBresenhamElipses.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:22:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BresenhamElipses.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\BresenhamElipses.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\BresenhamElipses.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\BresenhamElipses.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\BresenhamElipses.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwF4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:22:10.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BSplines.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\BSplines.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\BSplines.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\BSplines.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\BSplines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:35:00.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDDA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmDDA.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmDDA.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmDDA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmDDA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:14:26.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmbSplines.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmbSplines.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmbSplines.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmbSplines.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmbSplines.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:35:59.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmbSplines.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmbSplines.Designer.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmbSplines.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmbSplines.Designer.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmbSplines.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:45:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\FrmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "Algoritmo DDA\\FrmPrincipal.Designer.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAjwJ8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:24:47.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmsutherlandHoldgman.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:18:03.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmsutherlandHoldgman.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmsutherlandHoldgman.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:16:36.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CliperSH.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\CliperSH.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\CliperSH.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\CliperSH.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\CliperSH.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:15:04.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClipperCS.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\ClipperCS.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\ClipperCS.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\ClipperCS.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\ClipperCS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:00:36.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cohenSutherland.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\cohenSutherland.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\cohenSutherland.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\cohenSutherland.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\cohenSutherland.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAA9wBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:03:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Relleno.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Relleno.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\Relleno.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Relleno.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\Relleno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:15:27.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmcohenSutherland.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmcohenSutherland.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmcohenSutherland.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmcohenSutherland.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmcohenSutherland.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:06:10.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmBezierCubico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierCubico.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBezierCubico.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmBezierCubico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmBezierCubico.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T03:56:11.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cuadratica.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Cuadratica.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\Cuadratica.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Cuadratica.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\Cuadratica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T03:46:21.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmBezierCubico.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierCubico.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBezierCubico.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierCubico.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmBezierCubico.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwvw8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T03:57:09.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cubica.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Cubica.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\Cubica.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Cubica.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\Cubica.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T03:58:17.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmBezierCurvasCuadraticas.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T03:45:50.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmBezierCurvasCuadraticas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmBezierCurvasCuadraticas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T03:44:39.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AlgoritmoDDA.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\AlgoritmoDDA.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\AlgoritmoDDA.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\AlgoritmoDDA.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\AlgoritmoDDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:13:38.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmBezierLineal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierLineal.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBezierLineal.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmBezierLineal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmBezierLineal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:31:16.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmCircunferencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmCircunferencia.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmCircunferencia.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmCircunferencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmCircunferencia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:18:59.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmFloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmFloodFill.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmFloodFill.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:17:58.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmCircunferencia.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmCircunferencia.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmCircunferencia.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmCircunferencia.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmCircunferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:19:25.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AlgoritmoCircunferencia.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\AlgoritmoCircunferencia.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\AlgoritmoCircunferencia.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\AlgoritmoCircunferencia.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\AlgoritmoCircunferencia.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv4AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:18:53.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmBresenham.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmBresenham.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmBresenham.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:17:29.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\FloodFill.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\FloodFill.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\FloodFill.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\FloodFill.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:17:05.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmDDA.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmDDA.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmDDA.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmDDA.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmDDA.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:14:06.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmBezierLineal.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierLineal.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBezierLineal.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBezierLineal.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmBezierLineal.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:31:44.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Lineal.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Lineal.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\Lineal.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\Lineal.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\Lineal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:32:49.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PerformanceMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\PerformanceMonitor.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Clases\\PerformanceMonitor.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Clases\\PerformanceMonitor.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Clases\\PerformanceMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:13:02.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmScanline.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmScanline.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmScanline.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmScanline.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmScanline.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:10:43.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmScanline.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmScanline.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmScanline.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmScanline.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Algoritmo DDA  Bresenham e Inundacion\\Algoritmo DDA\\Formularios\\FrmScanline.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:09:49.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\FrmPrincipal.cs",
+              "RelativeToolTip": "Algoritmo DDA\\FrmPrincipal.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIA+wDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:32:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmBresenham.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "Algoritmo DDA\\Formularios\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\Lenovo LOQ\\source\\repos\\Algoritmo Computacion Grafica\\Algoritmo DDA\\Formularios\\FrmBresenham.cs",
+              "RelativeToolTip": "Algoritmo DDA\\Formularios\\FrmBresenham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:14:28.08Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

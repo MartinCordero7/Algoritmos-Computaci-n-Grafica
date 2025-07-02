@@ -1,0 +1,12 @@
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\bin\Debug\Algoritmo DDA.exe.config
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\bin\Debug\Algoritmo DDA.exe
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\bin\Debug\Algoritmo DDA.pdb
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\obj\Debug\Algoritmo DDA.csproj.AssemblyReference.cache
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\obj\Debug\Algoritmo_DDA.Properties.Resources.resources
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\obj\Debug\Algoritmo DDA.csproj.GenerateResource.cache
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\obj\Debug\Algoritmo DDA.csproj.CoreCompileInputs.cache
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\obj\Debug\Algoritmo DDA.exe
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\obj\Debug\Algoritmo DDA.pdb
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\obj\Debug\AlgoritmoDDA.FrmDDA.resources
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\obj\Debug\Algoritmos.FrmPrincipal.resources
+C:\ESPE\2283-COMPUTACION GRAFICA\Proyectos\Algoritmo DDA\Algoritmo DDA\obj\Debug\Bresenham.FrmBresenham.resources
